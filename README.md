@@ -67,6 +67,6 @@ Agradecimientos especiales a todas las personas que probaron el encriptador y br
 ---
 
 ## **Personas Desarrolladoras del Proyecto**  
-Este proyecto fue desarrollado por mí, **Briggitte Martinez Vidaurre(www.linkedin.com/in/briggitte-martinez-isi)**, una joven apasionada y con una sólida experiencia en proyectos de desarrollo de software.
+Este proyecto fue desarrollado por mi, **Briggitte Martinez Vidaurre(www.linkedin.com/in/briggitte-martinez-isi)**, una joven apasionada y con una sólida experiencia en proyectos de desarrollo de software.
 
 ---
